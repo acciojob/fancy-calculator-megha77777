@@ -5,4 +5,4 @@ let b = prompt("Enter another number");
 b = Number.parseInt(b);
 a = a*2;
 let result = a+b;
-alert("The final result is:"+result)
+alert("The final result is: "+result)
